@@ -1,0 +1,4 @@
+<servlet-mapping>
+    <servlet-name>com.malloc.io.server.view.RestApplication</servlet-name>
+    <url-pattern>/*</url-pattern>
+</servlet-mapping>
